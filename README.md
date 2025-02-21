@@ -23,8 +23,8 @@ A classic **Brick Breaker** game built in **Unity**. Break all the bricks using 
 🚀 Getting Started  
 
  Prerequisites  
-- **Unity Hub** installed  
-- **Unity Engine** (Version X.X.X or later)  
+- Unity Hub installed  
+- Unity Engine
 
 
 🎮 How to Play  
