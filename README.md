@@ -26,13 +26,6 @@ A classic **Brick Breaker** game built in **Unity**. Break all the bricks using 
 - **Unity Hub** installed  
 - **Unity Engine** (Version X.X.X or later)  
 
- Installation  
-1. **Clone the repository**  
-   ```bash
-
-   ```
-2. Open Unity Hub, click Open Project, and select the cloned folder.  
-3. Click Play inn the Unity Editor to start playing!  
 
 🎮 How to Play  
 - Move Paddle: Arrow keys / A & D  
